@@ -11,11 +11,7 @@
     h1 {
       font-size: 70px;
     }
-    img {
-      margin: 50px 0px 0px 0px;
-      border: 7px solid blue;
-      border-radius: 20px;
-    }
+    
     ul {
       padding: 15px;
       background: rgba(0,0,0,0.5);
@@ -38,3 +34,4 @@
     }
   #about{
   background-color: black;
+  }
