@@ -13,24 +13,17 @@
     }
     
     ul {
-      padding: 15px;
       background: rgba(0,0,0,0.5);
     }
     li {
       display: inline;
-      padding: 10px 10p;
     }
     div{
       max-width: 500px;
-      padding: 20px;
-      margin: 0 auto;
+      
     }
     @media (max-width: 500px) {
      
-      li {
-        padding: 5px;
-        display: block;
-      }
     }
   #about{
   background-color: black;
